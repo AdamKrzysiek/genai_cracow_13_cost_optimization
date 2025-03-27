@@ -1,0 +1,49 @@
+Customer: *calls the customer support number*
+
+Agent: Thank you for calling Oktank customer support, this is {NAME} speaking. How can I assist you today?
+
+Customer: Hi, I'm really confused about this promotional offer I received from your company. Can you please help me understand what's going on?
+
+Agent: Absolutely, I'd be happy to help you with that. Could I please have your email address associated with your Oktank account so I can look into this for you?
+
+Customer: Sure, it's [email protected]
+
+Agent: Okay, let me just verify that email address. *types in the email address* Great, I've found your account. Now, could you please provide the one-time password that was sent to your registered mobile number?
+
+Customer: *provides the one-time password*
+
+Agent: Thank you, I've successfully verified your identity. Now, could you please tell me more about the promotional offer you received? What exactly are you confused about?
+
+Customer: Well, I've been a loyal Oktank customer for years, and I recently received an email about this amazing promotional offer. It said I could get 50% off my next three orders, but when I tried to use the discount code, it didn't work. I'm just really frustrated because I was so excited about the offer, and now I'm not sure what's going on.
+
+Agent: I understand your frustration, and I apologize for the inconvenience. Let me take a closer look at the promotional offer you received and see if I can help you resolve this.
+
+*types on the computer*
+
+Ah, I see the issue here. The promotional offer you received was a limited-time offer that has since expired. The discount code you tried to use was only valid for a specific period, which has unfortunately passed.
+
+Customer: Oh, I see. That's really disappointing. I've been such a loyal Oktank customer for so long, and I was really looking forward to taking advantage of this offer. Is there anything you can do to help me out?
+
+Agent: I completely understand your frustration, and I appreciate your loyalty to Oktank. As a valued customer, I would be more than happy to see if there's anything I can do to make this right.
+
+*types on the computer*
+
+Let me see here... Ah, I have an idea. Since you've been such a loyal customer, I'm able to apply a one-time 25% discount to your next order, regardless of the promotional offer. Would that help make up for the inconvenience you've experienced?
+
+Customer: Wow, that would be amazing. Thank you so much! I really do love Oktank and the great service I've always received. I'm so glad we were able to get this sorted out.
+
+Agent: I'm so glad I could help resolve this for you. At Oktank, our customers are our top priority, and we truly value your loyalty and support over the years. Please let me know if there's anything else I can assist you with. I'm here to help in any way I can.
+
+Customer: Thank you, that's so kind of you. I really appreciate your patience and understanding. You've definitely gone above and beyond to make this right, and it's just another reason why I love being an Oktank customer.
+
+Agent: I'm so glad I could be of assistance. Please don't hesitate to reach out if you have any other questions or concerns in the future. We're always here to support our valued customers like yourself.
+
+Customer: Absolutely, I'll be sure to do that. Thank you again for your help, {NAME}. You've made my day a lot brighter.
+
+Agent: It's my pleasure, [Customer Name]. I hope you have a wonderful rest of your day, and I look forward to assisting you again in the future.
+
+Customer: Thank you, you too! Bye-bye.
+
+Agent: Goodbye, [Customer Name]. Have a great day!
+
+*call ends*

@@ -1,0 +1,49 @@
+Customer: *Anxiously* Hello, I'm calling about an issue with my recent order from Oktank. I'm really worried and I need your help to resolve this.
+
+Agent: Hello, this is {NAME} from Oktank Customer Support. I'm here to assist you. Can you please provide me with the email address associated with your Oktank account so I can look into your order?
+
+Customer: Yes, it's [email protected] I placed an order last week and it still hasn't arrived. I'm starting to get really concerned.
+
+Agent: Okay, let me pull up your order details. *Typing* Alright, I see your order here. Can you also provide me with the one-time password that was sent to your registered email address? This will help me verify your identity and access your account information.
+
+Customer: *Anxiously* Oh, um, let me check. *Pauses* Okay, the one-time password is {PASSWORD}.
+
+Agent: *Calmly* Thank you for providing that. Let me take a closer look at your order. *Typing* I see that your order was placed on [date] and was scheduled to be delivered by [date]. However, it looks like there was a delay in the shipping process.
+
+Customer: *Frustrated* A delay? But it's been over a week! I need that order, it's really important. What's going on?
+
+Agent: I understand your frustration, and I apologize for the delay. Let me look into this further to see what happened and how we can resolve this for you.
+
+*Typing and clicking sounds*
+
+Okay, it appears there was an issue with the carrier during the shipping process, which caused the delay. The good news is that your order is currently in transit and is scheduled to be delivered tomorrow.
+
+Customer: *Relieved but still anxious* Tomorrow? But I needed it days ago! This is really causing me a lot of stress. Is there anything you can do to get it to me sooner?
+
+Agent: *Calmly* I understand this has been a stressful situation for you. Let me see what options we have to expedite the delivery. *Typing* Hmm, it looks like we can upgrade the shipping to overnight delivery at no additional cost to you. That would ensure your order arrives today.
+
+Customer: *Relieved* Oh, that would be amazing. Please do that. I really need this order as soon as possible.
+
+Agent: Absolutely, I've gone ahead and upgraded the shipping to overnight delivery at no charge. Your order should be delivered to you later this evening.
+
+Customer: *Relieved* Thank you so much, that's a huge relief. I really appreciate you taking the time to look into this and find a solution.
+
+Agent: *Reassuringly* I'm glad I could help resolve this for you. Please let me know if you have any other questions or concerns. I'm here to assist you.
+
+Customer: *Calmer* Okay, great. I think that's all I needed. Thank you again for your help. I really appreciate your patience and understanding.
+
+Agent: *Warmly* You're very welcome. I'm happy I could help get your order to you as soon as possible. If there's anything else I can do for you, please don't hesitate to reach out. Have a great rest of your day!
+
+Customer: *Gratefully* You too, thank you!
+
+Agent: *Professionally* Before we end the call, I just want to confirm that your order is now scheduled for overnight delivery and will be arriving later today. Is there anything else I can assist you with?
+
+Customer: *Relieved* No, that's all I needed. I'm just glad we were able to get this resolved. Thank you again for your help.
+
+Agent: *Calmly* Wonderful, I'm glad we were able to find a solution. Please let me know if you have any other questions or concerns in the future. I'm always happy to assist.
+
+Customer: *Gratefully* I will, thank you so much. Goodbye.
+
+Agent: *Warmly* Goodbye, have a great rest of your day.
+
+*Call ends*

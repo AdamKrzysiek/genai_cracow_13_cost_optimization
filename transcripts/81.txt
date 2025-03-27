@@ -1,0 +1,63 @@
+Customer: *dials the customer service number*
+
+Agent: Thank you for calling Oktank Customer Service. This is {NAME}, how may I assist you today?
+
+Customer: *sounding confused* Oh, hi. I'm not really sure what's going on, but I just received an email from Oktank saying there's an issue with my account. Can you please help me figure this out?
+
+Agent: Certainly, I'd be happy to look into this for you. Before we get started, could you please provide me with the email address associated with your Oktank account?
+
+Customer: Yes, it's [email protected]
+
+Agent: Okay, great. And just to verify your identity, could you please provide the one-time password that was sent to that email address?
+
+Customer: *pauses* One-time password? I didn't receive any one-time password. What's going on?
+
+Agent: No problem, let me just double-check your account details. *types on computer* Ah, I see. It looks like there was an attempted login to your account from an unfamiliar device earlier today. As a security precaution, we sent a one-time password to your registered email address to verify it was you.
+
+Customer: *sounding more concerned* An attempted login? But I haven't tried to log in to my account at all today. What's happening?
+
+Agent: *calmly* I understand this must be concerning, but please don't worry. It's likely just a precautionary measure on our part to protect the security of your account. Let me walk you through the steps we can take to ensure everything is in order.
+
+First, I'd like to confirm that the one-time password was indeed sent to the email address you provided. Could you please check your inbox and let me know if you received it?
+
+Customer: *checks email* No, I don't see any one-time password. What does this mean?
+
+Agent: Okay, got it. Since you didn't receive the one-time password, that means the attempted login was likely not made by you. As an additional security measure, I'm going to need to verify your identity in a different way.
+
+Could you please provide me with the last four digits of the credit card you have on file with your Oktank account?
+
+Customer: *hesitantly* Uh, sure. It's {CREDIT_DEBIT_CARD_NUMBER}.
+
+Agent: Thank you for providing that information. I can now see that your account is registered to [Customer Name] at the email address [email protected] Does that sound correct?
+
+Customer: Yes, that's me. But I'm still really confused about what's going on. Why was there an attempted login to my account?
+
+Agent: I understand your concern. Let me assure you that we take the security of our customers' accounts very seriously at Oktank. The attempted login was likely an unauthorized access attempt, and we wanted to make sure it wasn't you before taking any further action.
+
+Now that I've verified your identity, I can look into this issue in more detail. From what I can see, there was an unsuccessful login attempt made from an IP address in a different country than your usual login location. This triggered our security protocols, and that's why we sent the one-time password to your email as an extra precaution.
+
+Customer: *sighs with relief* Okay, that makes sense. I'm glad you caught that and are looking into it. I was really worried something bad had happened.
+
+Agent: I completely understand your concern. As a loyal Oktank customer, your security and satisfaction are our top priorities. I want to assure you that we are taking this matter very seriously and will do everything in our power to protect your account.
+
+Since the one-time password wasn't received, I'm going to go ahead and reset your account password as an additional security measure. This will ensure that the unauthorized party cannot gain access to your account. Once the password reset is complete, I'll send you a confirmation email with the new password.
+
+In the meantime, I'd also like to recommend that you enable two-factor authentication on your Oktank account. This will add an extra layer of security and help prevent any future unauthorized access attempts. I can walk you through the steps to set that up if you'd like.
+
+Customer: *sounding more at ease* Yes, please. That would be great. I want to make sure my account is as secure as possible.
+
+Agent: Wonderful, I'm happy to help with that. *types on computer* Okay, I've initiated the password reset process, and the new password has been sent to your email. Let me know once you've received that, and we can walk through enabling two-factor authentication together.
+
+Customer: *relieved* Thank you so much, {NAME}. I really appreciate you taking the time to walk me through this and make sure my account is secure. I've been a loyal Oktank customer for years, and it means a lot to me that you're taking such good care of my information.
+
+Agent: *warmly* It's my pleasure, [Customer Name]. We value your loyalty and trust as an Oktank customer, and your security is of the utmost importance to us. I'm glad I could help resolve this issue and provide you with the additional security measures to protect your account going forward.
+
+Please don't hesitate to reach out if you have any other questions or concerns. I'm always here to assist you. And thank you for being such a wonderful Oktank customer – we truly appreciate your business.
+
+Customer: *gratefully* Thank you, {NAME}. I feel much better now, and I look forward to continuing to shop with Oktank. Have a great rest of your day!
+
+Agent: You're very welcome. It was my pleasure to help. You too, [Customer Name], have a wonderful day. Goodbye.
+
+Customer: Goodbye.
+
+*call ends*

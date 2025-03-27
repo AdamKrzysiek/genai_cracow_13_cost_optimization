@@ -1,0 +1,65 @@
+Customer: *Sighs heavily* Ugh, finally someone picks up. I've been on hold for ages! This is so frustrating.
+
+Agent: I apologize for the long wait time, sir. This is {NAME} from Oktank customer support. How can I assist you today?
+
+Customer: Well, it's about this promotional offer I signed up for last week. I was supposed to get a 50% discount on my next purchase, but when I tried to use it, it didn't work. I'm really annoyed because I was counting on that discount.
+
+Agent: I understand your frustration, sir. Let me look into that for you. Can I please have your email address associated with your Oktank account?
+
+Customer: It's {EMAIL}.
+
+Agent: Okay, let me pull up your account information. *Typing* One moment, please.
+
+*Brief pause*
+
+Agent: Ah, I see the issue here. It looks like the promotional offer you signed up for was a one-time use only, and you've already used it on your previous purchase.
+
+Customer: What? That can't be right. I specifically remember the offer saying it was good for my next purchase, not just a one-time thing. This is ridiculous!
+
+Agent: I apologize for the confusion, sir. Let me double-check the details of that promotion. *Typing* Hmm, it seems there may have been a glitch in our system that caused the incorrect information to be displayed. Please bear with me for a moment while I investigate further.
+
+*Longer pause*
+
+Agent: I'm very sorry about this, sir. It appears there was a temporary technical issue in our system that led to the incorrect information being shown for that promotional offer. I've escalated this to our IT team, and they're working to resolve the problem as we speak.
+
+In the meantime, I'd like to offer you a one-time 25% discount on your next purchase to make up for the inconvenience. Would that be acceptable?
+
+Customer: *Sighs* I guess that's better than nothing. But I'm still really frustrated that I didn't get the full 50% discount I was promised. This is just so aggravating.
+
+Agent: I completely understand your frustration, sir. Let me assure you that we take issues like this very seriously at Oktank. Our team is working diligently to address the technical glitch and ensure this doesn't happen again. In the meantime, I'd be happy to apply the 25% discount to your next order. Would you like me to process that for you now?
+
+Customer: *Hesitates* Alright, fine. I suppose that's better than nothing. Go ahead and apply the discount.
+
+Agent: Wonderful, thank you for your understanding, sir. Let me just verify your identity one more time before I proceed. Can you please provide the one-time password that was sent to your registered email address?
+
+Customer: *Pauses* Uh, one-time password? I don't think I received any email with a password.
+
+Agent: *Typing* Hmm, it seems there may be another issue with our system. I'm not able to locate the one-time password in your account. Please bear with me for a moment while I troubleshoot this.
+
+*Longer pause*
+
+Agent: I apologize for the delay, sir. It appears there was a temporary glitch in our authentication system, which is preventing me from verifying your identity at the moment. I know this is frustrating, but I want to assure you that the safety and security of our customers' information is our top priority.
+
+Let me try a different approach. Could you please confirm the last four digits of the credit card you have on file with us?
+
+Customer: *Sighs* Fine, it's {CREDIT_DEBIT_CARD_NUMBER}.
+
+Agent: *Typing* Thank you, sir. I've successfully verified your identity using the credit card information. Now, let me go ahead and apply that 25% discount to your next order.
+
+*Typing*
+
+Okay, the discount has been applied. You should see it reflected in the total when you make your next purchase. Is there anything else I can assist you with today?
+
+Customer: No, I guess that's it. I'm just glad we were able to get this sorted out, even if it took way longer than it should have.
+
+Agent: I completely understand, sir. I'm very sorry for the inconvenience and the technical issues we experienced. Please know that we value your business and are committed to providing you with the best possible customer experience. If there's anything else I can do for you, don't hesitate to let me know.
+
+Customer: Alright, thanks. I appreciate you sticking with me through all of this.
+
+Agent: It's my pleasure, sir. Thank you for your patience and understanding. I hope you have a wonderful rest of your day.
+
+Customer: You too. Bye.
+
+Agent: Goodbye, sir. Have a great day.
+
+*Call ends*
